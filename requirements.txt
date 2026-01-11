@@ -1,0 +1,12 @@
+# -------------------- requirements.txt --------------------
+
+
+faiss-cpu
+flask
+python-multipart
+sentence-transformers
+PyMuPDF
+python-docx
+tqdm
+numpy
+pandas
