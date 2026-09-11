@@ -33,3 +33,9 @@ Limitações/Notas:
 - Projeto minimalista e local — não inclui autenticação nem UI bonita.
 - Para rodar em produção, acrescente verificação de arquivos, quotas, backup do índice e segurança.
 
+````
+
+SE USAR DE OS CREDITOS
+
+````
+By Davi Leonardo
